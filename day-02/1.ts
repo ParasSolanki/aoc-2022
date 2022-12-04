@@ -1,4 +1,4 @@
-const input = await Deno.readTextFile('./sample.txt')
+const input = await Deno.readTextFile('./input.txt')
 
 const stratergys = input.split('\r\n')
 
